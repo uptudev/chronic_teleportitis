@@ -41,3 +41,6 @@ luac.out
 
 # Steam Workshop files
 workshop*
+
+# Release files kept in my remote's folder
+*.tar.gz
