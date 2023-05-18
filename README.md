@@ -6,7 +6,7 @@ This mod spawns you in with the Teleportitis perk and the Teleportitis Dodge per
 ___
     Downloads
 
-[TODO]()
+[TODO](https://github.com/uptudev/teleportigen/releases/download/v0.0.1/teleportigen_v0.0.1.tar.gz)
 ___
     Instructions
 
