@@ -1,4 +1,4 @@
-# Teleportigen
+# Chronic Teleportitis
 
     Description
 
@@ -6,7 +6,7 @@ This mod spawns you in with the Teleportitis perk and the Teleportitis Dodge per
 ___
     Downloads
 
-[Current Version Archive](https://github.com/uptudev/teleportigen/releases/download/v0.0.1/teleportigen_v0.0.1.tar.gz) (v0.0.1)
+[Current Version Archive](https://github.com/uptudev/chronic_teleportitis/releases/download/v0.0.1/chronic_teleportitis_v0.0.1.tar.gz) (v0.0.1)
 ___
     Instructions
 
